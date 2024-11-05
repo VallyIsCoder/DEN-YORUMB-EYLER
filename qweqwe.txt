@@ -1,6 +1,6 @@
 maintenanceonoff|1
-maintenancemessage|`wProxy is Currently `3Under Maintenance `wFixing Login Stuff
+maintenancemessage|`3roxy is Currently `#Under Maintenance `3Fixing Login Stuff
 prversion|1.0
-prupdatemesaj|`3[`wUPDATE AVAILABLE`3] `wCheck Discord or Proxy Site
+prupdatemesaj|`w[`#UPDATE AVAILABLE`w] `3Check Discord or Proxy Site
 proxysite|yok
 proxydiscord|yok
