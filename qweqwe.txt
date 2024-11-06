@@ -1,4 +1,4 @@
-maintenanceonoff|1
+maintenanceonoff|0
 maintenancemessage|`w[`3PROXY SERVER`w] `3Proxy is Currently `4Under Maintenance
 prversion|1.0
 prupdatemesaj|`3[`wUPDATE AVAILABLE`3] `wwDownload last version from Discord Server or Website
